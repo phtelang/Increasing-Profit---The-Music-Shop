@@ -22,7 +22,7 @@ Below questions were explored to help business take decisions and increase profi
 6. 56.63% of tracks have been purchased at least once.
 7. The available range of tracks is not closely reflective of popularity. There are more tracks of Latin and Rock music than it can sell. It is recommended to look into the selections of tracks in these particular types as some of the currect selections are not popular with the customer.
 8. Unprotected media types sell more than protected media types.
-To view the code and graphs accurately, please click on this link as some of the Plotly graphs are not displayed directly on Github.
+To view the code and graphs accurately, please click on __[this link](https://nbviewer.jupyter.org/github/phtelang/Increasing-Profit---The-Music-Shop/blob/master/Increasing%20Profit%20-%20The%20Music%20Shop.ipynb)__ as some of the Plotly graphs are not displayed directly on Github.
 
 ### Installation
 - Download the source database on your local folder.
